@@ -1,2 +1,2 @@
-# javascript-chess-engine
+# javascript-chess
 A javascript chess engine!!
